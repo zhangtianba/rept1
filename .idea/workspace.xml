@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfd4c9e2-01bd-404e-aa7d-383c63b6091e" name="合并分支" comment="123123合并主" />
+    <list id="d4e19c87-17aa-4acd-b653-f8c62a55bb75" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="rept1" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="zhangtl" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\BBBB\rept1\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cW5PGG8wocm8ylK41G0jIUlXdk" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.3815893" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfd4c9e2-01bd-404e-aa7d-383c63b6091e" name="合并分支" comment="123123" />
+      <changelist id="d4e19c87-17aa-4acd-b653-f8c62a55bb75" name="Default Changelist" comment="" />
+      <created>1590631483417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590631483417</updated>
+      <workItem from="1590631486121" duration="2910000" />
+      <workItem from="1590634421106" duration="359000" />
+      <workItem from="1590634797040" duration="230000" />
+      <workItem from="1590635036955" duration="176000" />
+    </task>
+    <task id="LOCAL-00001" summary="档案功能">
+      <created>1590632364385</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590632364385</updated>
+    </task>
+    <task id="LOCAL-00002" summary="档案功能">
+      <created>1590632436467</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590632436467</updated>
+    </task>
+    <task id="LOCAL-00003" summary="day2推送">
+      <created>1590632797295</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590632797295</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第一天修改">
+      <created>1590632914172</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590632914172</updated>
+    </task>
+    <task id="LOCAL-00005" summary="第一天修改">
+      <created>1590633021491</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590633021491</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Revert &quot;day2推送&quot;&#10;&#10;This reverts commit cc8e3657">
+      <created>1590633192512</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590633192512</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Revert &quot;第一天修改&quot;&#10;&#10;This reverts commit eab727c8">
+      <created>1590633565445</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590633565445</updated>
+    </task>
+    <task id="LOCAL-00008" summary="123123合并主">
+      <created>1590633901099</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1590633901099</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="档案功能" />
+    <MESSAGE value="day2推送" />
+    <MESSAGE value="第一天修改" />
+    <MESSAGE value="Revert &quot;day2推送&quot;&#10;&#10;This reverts commit cc8e3657" />
+    <MESSAGE value="Revert &quot;第一天修改&quot;&#10;&#10;This reverts commit eab727c8" />
+    <MESSAGE value="123123合并主" />
+    <option name="LAST_COMMIT_MESSAGE" value="123123合并主" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2629" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590633829025">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2629" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590633829025" />
+    <state x="2480" y="112" width="1022" height="815" key="CommitChangelistDialog2" timestamp="1590635153291">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2480" y="112" width="1022" height="815" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590635153291" />
+    <state x="2012" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1590633570145">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2012" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590633570145" />
+    <state x="2659" y="275" key="FileChooserDialogImpl" timestamp="1590635393312">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2659" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590635393312" />
+    <state x="2104" y="92" key="MergeDialog" timestamp="1590634108935">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2104" y="92" key="MergeDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590634108935" />
+    <state x="2589" y="236" key="MultipleFileMergeDialog" timestamp="1590634110383">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2589" y="236" key="MultipleFileMergeDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590634110383" />
+    <state x="2741" y="231" key="RollbackChangesDialog" timestamp="1590633365897">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2741" y="231" key="RollbackChangesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590633365897" />
+    <state x="2729" y="224" key="VCS.ChangeListViewerDialog" timestamp="1590633524919">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2729" y="224" key="VCS.ChangeListViewerDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590633524919" />
+    <state x="2710" y="389" key="VCS.EditChangelistDialog" timestamp="1590633724684">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2710" y="389" key="VCS.EditChangelistDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590633724684" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1590635246932">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590635246932" />
+    <state x="2642" y="232" key="git4idea.branch.GitSmartOperationDialog" timestamp="1590634065019">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2642" y="232" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590634065019" />
+    <state x="2664" y="311" key="git4idea.merge.GitMergeDialog" timestamp="1590635170803">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2664" y="311" key="git4idea.merge.GitMergeDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590635170803" />
+    <state x="2589" y="311" key="git4idea.merge.GitPullDialog" timestamp="1590635236075">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2589" y="311" key="git4idea.merge.GitPullDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590635236075" />
+    <state x="2689" y="414" key="git4idea.ui.GitResetDialog" timestamp="1590633414020">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2689" y="414" key="git4idea.ui.GitResetDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590633414020" />
+  </component>
+</project>
